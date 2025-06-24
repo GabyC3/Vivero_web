@@ -15,7 +15,7 @@ namespace Vivero.BD.Datos
         }
         public DbSet<Administrador> Administradores { get; set; }
         public DbSet<Producto> Productos { get; set; }
-        public DbSet<AdminProducto> AdminProductos { get; set; }
+        public DbSet<gestionProducto> gestionProductos { get; set; }
         
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -23,17 +23,17 @@ namespace Vivero.BD.Datos
 
             base.OnModelCreating(modelBuilder);
 
-            modelBuilder.Entity<AdminProducto>()
+            modelBuilder.Entity<gestionProducto>()
             .HasKey(x => new { x.IdAdministrador, x.IdProducto });
 
-            modelBuilder.Entity<AdminProducto>()
+            modelBuilder.Entity<gestionProducto>()
                 .HasOne(x => x.Administrador)
-              .WithMany(a => a.AdminProductos)
+              .WithMany(a => a.gestionProductos)
               .HasForeignKey(b => b.IdAdministrador);
 
-            modelBuilder.Entity<AdminProducto>()
+            modelBuilder.Entity<gestionProducto>()
               .HasOne(x => x.Producto)
-              .WithMany(a => a.AdminProductos)
+              .WithMany(a => a.gestionProductos)
               .HasForeignKey(b => b.IdProducto);
         }
     }

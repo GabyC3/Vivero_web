@@ -22,6 +22,6 @@ namespace Vivero.BD.Datos.Entity
         public DateTime FechaRegistro { get; set; }
 
         // Relación muchos a muchos
-        public ICollection<AdminProducto> AdminProductos { get; set; }
+        public ICollection<gestionProducto> gestionProductos { get; set; }
     }
 }

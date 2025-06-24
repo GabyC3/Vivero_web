@@ -1,0 +1,12 @@
+C:\Users\Matt\source\repos\Vivero\Vivero.Servicio\bin\Debug\net9.0\Vivero.Servicio.deps.json
+C:\Users\Matt\source\repos\Vivero\Vivero.Servicio\bin\Debug\net9.0\Vivero.Servicio.dll
+C:\Users\Matt\source\repos\Vivero\Vivero.Servicio\bin\Debug\net9.0\Vivero.Servicio.pdb
+C:\Users\Matt\source\repos\Vivero\Vivero.Servicio\obj\Debug\net9.0\Vivero.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\source\repos\Vivero\Vivero.Servicio\obj\Debug\net9.0\Vivero.Servicio.AssemblyInfoInputs.cache
+C:\Users\Matt\source\repos\Vivero\Vivero.Servicio\obj\Debug\net9.0\Vivero.Servicio.AssemblyInfo.cs
+C:\Users\Matt\source\repos\Vivero\Vivero.Servicio\obj\Debug\net9.0\Vivero.Servicio.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\Vivero\Vivero.Servicio\obj\Debug\net9.0\Vivero.Servicio.sourcelink.json
+C:\Users\Matt\source\repos\Vivero\Vivero.Servicio\obj\Debug\net9.0\Vivero.Servicio.dll
+C:\Users\Matt\source\repos\Vivero\Vivero.Servicio\obj\Debug\net9.0\refint\Vivero.Servicio.dll
+C:\Users\Matt\source\repos\Vivero\Vivero.Servicio\obj\Debug\net9.0\Vivero.Servicio.pdb
+C:\Users\Matt\source\repos\Vivero\Vivero.Servicio\obj\Debug\net9.0\ref\Vivero.Servicio.dll

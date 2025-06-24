@@ -199,8 +199,6 @@ C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\n
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XmlSerializer.uarlhvhlht.wasm
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XPath.dhry31foc0.wasm
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XPath.XDocument.dvarvms6fh.wasm
-C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\Vivero.Server.Client.twbg7j6t70.pdb
-C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\Vivero.Server.Client.ek5hyxxxtc.wasm
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\WindowsBase.5lai2eowco.wasm
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.Net.WebProxy.la91e3qlbb.wasm.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Serialization.45mdkltlcc.wasm.gz
@@ -259,7 +257,6 @@ C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\n
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.nkebuzz0o3.wasm.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.hpstk8kub5.wasm.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.wne6lzve40.wasm.gz
-C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\Vivero.Server.Client.twbg7j6t70.pdb.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.Globalization.Extensions.hal5qdz64m.wasm.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.mnju7fj288.wasm.gz
@@ -396,7 +393,6 @@ C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\n
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.h26bty15zu.wasm.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.Runtime.Loader.er8lbvj98m.wasm.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.Net.HttpListener.g1z5na32ay.wasm.gz
-C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\Vivero.Server.Client.ek5hyxxxtc.wasm.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Timer.v0pk5dv1s1.wasm.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.Resources.Writer.vf2aoyu2am.wasm.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\System.Net.Requests.vg192fvph6.wasm.gz
@@ -1020,9 +1016,6 @@ C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\n
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\compressed\bn7855k3xf-tjcz0u77k5.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\compressed\pt2x60k2c0-tptq2av103.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\compressed\ij2aq1hgn3-lfu7j35m59.gz
-C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\compressed\ym0senvdbe-ek5hyxxxtc.gz
-C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\compressed\bjfxc8ujnc-twbg7j6t70.gz
-C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\compressed\5r0dbcvf3u-wd0ike93gh.gz
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1038,3 +1031,10 @@ C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\n
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\refint\Vivero.Server.Client.dll
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\Vivero.Server.Client.pdb
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\ref\Vivero.Server.Client.dll
+C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\Vivero.Server.Client.u861mwnp0v.pdb
+C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\Vivero.Server.Client.7hl2ju40s7.wasm
+C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\Vivero.Server.Client.u861mwnp0v.pdb.gz
+C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\bin\Debug\net9.0\wwwroot\_framework\Vivero.Server.Client.7hl2ju40s7.wasm.gz
+C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\compressed\ym0senvdbe-7hl2ju40s7.gz
+C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\compressed\bjfxc8ujnc-u861mwnp0v.gz
+C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\compressed\5r0dbcvf3u-40iogchd9v.gz

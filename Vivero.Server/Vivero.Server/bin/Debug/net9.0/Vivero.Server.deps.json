@@ -1198,7 +1198,8 @@
       },
       "Vivero.BD/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.6"
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.6",
+          "Vivero.Shared": "1.0.0"
         },
         "runtime": {
           "Vivero.BD.dll": {
@@ -1213,6 +1214,14 @@
         },
         "runtime": {
           "Vivero.Server.Client.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Vivero.Shared/1.0.0": {
+        "runtime": {
+          "Vivero.Shared.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1904,6 +1913,11 @@
       "sha512": ""
     },
     "Vivero.Server.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vivero.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

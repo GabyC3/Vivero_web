@@ -13,3 +13,6 @@ C:\Users\Matt\source\repos\Vivero\Vivero.BD\obj\Debug\net9.0\refint\Vivero.BD.dl
 C:\Users\Matt\source\repos\Vivero\Vivero.BD\obj\Debug\net9.0\Vivero.BD.pdb
 C:\Users\Matt\source\repos\Vivero\Vivero.BD\obj\Debug\net9.0\Vivero.BD.genruntimeconfig.cache
 C:\Users\Matt\source\repos\Vivero\Vivero.BD\obj\Debug\net9.0\ref\Vivero.BD.dll
+C:\Users\Matt\source\repos\Vivero\Vivero.BD\bin\Debug\net9.0\Vivero.Shared.dll
+C:\Users\Matt\source\repos\Vivero\Vivero.BD\bin\Debug\net9.0\Vivero.Shared.pdb
+C:\Users\Matt\source\repos\Vivero\Vivero.BD\obj\Debug\net9.0\Vivero.BD.csproj.Up2Date

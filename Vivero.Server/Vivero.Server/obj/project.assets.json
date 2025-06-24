@@ -1904,7 +1904,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.6"
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.6",
+          "Vivero.Shared": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Vivero.BD.dll": {}
@@ -1924,6 +1925,16 @@
         },
         "runtime": {
           "bin/placeholder/Vivero.Server.Client.dll": {}
+        }
+      },
+      "Vivero.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Vivero.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Vivero.Shared.dll": {}
         }
       }
     }
@@ -5421,6 +5432,11 @@
       "type": "project",
       "path": "../Vivero.Server.Client/Vivero.Server.Client.csproj",
       "msbuildProject": "../Vivero.Server.Client/Vivero.Server.Client.csproj"
+    },
+    "Vivero.Shared/1.0.0": {
+      "type": "project",
+      "path": "../../Vivero.Shared/Vivero.Shared.csproj",
+      "msbuildProject": "../../Vivero.Shared/Vivero.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
