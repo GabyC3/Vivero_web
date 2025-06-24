@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Vivero.BD.Datos.Entity
 {
-    public class AdminProducto
+    public class gestionProducto
     {
         public  int IdAdministrador { get; set; }
         public  Administrador Administrador  { get; set; }

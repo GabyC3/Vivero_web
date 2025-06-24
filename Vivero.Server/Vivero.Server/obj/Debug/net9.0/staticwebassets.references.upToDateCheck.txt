@@ -19,3 +19,7 @@ C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\n
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\obj\Debug\net9.0\staticwebassets.build.json

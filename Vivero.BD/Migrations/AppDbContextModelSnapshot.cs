@@ -22,24 +22,6 @@ namespace Vivero.BD.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Vivero.BD.Datos.Entity.AdminProducto", b =>
-                {
-                    b.Property<int>("IdAdministrador")
-                        .HasColumnType("int");
-
-                    b.Property<int>("IdProducto")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("FechaAsignacion")
-                        .HasColumnType("datetime2");
-
-                    b.HasKey("IdAdministrador", "IdProducto");
-
-                    b.HasIndex("IdProducto");
-
-                    b.ToTable("AdminProductos");
-                });
-
             modelBuilder.Entity("Vivero.BD.Datos.Entity.Administrador", b =>
                 {
                     b.Property<int>("AdministradorId")
@@ -97,16 +79,34 @@ namespace Vivero.BD.Migrations
                     b.ToTable("Productos");
                 });
 
-            modelBuilder.Entity("Vivero.BD.Datos.Entity.AdminProducto", b =>
+            modelBuilder.Entity("Vivero.BD.Datos.Entity.gestionProducto", b =>
+                {
+                    b.Property<int>("IdAdministrador")
+                        .HasColumnType("int");
+
+                    b.Property<int>("IdProducto")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("FechaAsignacion")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("IdAdministrador", "IdProducto");
+
+                    b.HasIndex("IdProducto");
+
+                    b.ToTable("gestionProductos");
+                });
+
+            modelBuilder.Entity("Vivero.BD.Datos.Entity.gestionProducto", b =>
                 {
                     b.HasOne("Vivero.BD.Datos.Entity.Administrador", "Administrador")
-                        .WithMany("AdminProductos")
+                        .WithMany("gestionProductos")
                         .HasForeignKey("IdAdministrador")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("Vivero.BD.Datos.Entity.Producto", "Producto")
-                        .WithMany("AdminProductos")
+                        .WithMany("gestionProductos")
                         .HasForeignKey("IdProducto")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -118,12 +118,12 @@ namespace Vivero.BD.Migrations
 
             modelBuilder.Entity("Vivero.BD.Datos.Entity.Administrador", b =>
                 {
-                    b.Navigation("AdminProductos");
+                    b.Navigation("gestionProductos");
                 });
 
             modelBuilder.Entity("Vivero.BD.Datos.Entity.Producto", b =>
                 {
-                    b.Navigation("AdminProductos");
+                    b.Navigation("gestionProductos");
                 });
 #pragma warning restore 612, 618
         }

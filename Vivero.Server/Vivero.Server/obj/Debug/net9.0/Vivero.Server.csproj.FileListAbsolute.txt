@@ -242,3 +242,5 @@ C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server\obj\Debug\net9.0\r
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server\obj\Debug\net9.0\Vivero.Server.pdb
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server\obj\Debug\net9.0\Vivero.Server.genruntimeconfig.cache
 C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server\obj\Debug\net9.0\ref\Vivero.Server.dll
+C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server\bin\Debug\net9.0\Vivero.Shared.dll
+C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server\bin\Debug\net9.0\Vivero.Shared.pdb
