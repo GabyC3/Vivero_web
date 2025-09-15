@@ -8,20 +8,25 @@ using System.Threading.Tasks;
 
 namespace Vivero.BD.Datos.Entity
 {
-    //[Index(nameof(AdministradorId),Name = "Administrador_IdAdministrador_UQ", IsUnique = true)]
-    public class Administrador
+    [Index(nameof(Email), Name = "Usuario_Email_UQ", IsUnique = true)]
+    public class Administrador : EntityBase
     {
 
-        public required int AdministradorId { get; set; }
-
         [Required(ErrorMessage = "Es necesario ingresar un nombre")]
+        [MaxLength(50, ErrorMessage = "El maximo de caracteres es de {50}")]
         public required string Nombre { get; set; }
 
-        [Required(ErrorMessage = "Es necesario ingresar una contraseña")]
-        public required string Contraseña { get; set; }
-        public DateTime FechaRegistro { get; set; }
+        [Required(ErrorMessage = "Es necesario ingresar una dirección e-mail")]
+        [MaxLength(50, ErrorMessage = "El maximo de caracteres es de {50}")]
+        public required string Email { get; set; }
 
-        // Relación muchos a muchos
-        public ICollection<gestionProducto> gestionProductos { get; set; }
+        [MaxLength(15, ErrorMessage = "El maximo de caracteres es de {15}")]
+        public string? Telefono { get; set; }
+
+        [Required(ErrorMessage = "Se necesita ingresar una contraseña")]
+        public required string Contraseña { get; set; }
+        public DateTime FechaRegistro { get; set; } = DateTime.Now;
+
+        
     }
 }

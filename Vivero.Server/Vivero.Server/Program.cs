@@ -1,15 +1,24 @@
 using Microsoft.EntityFrameworkCore;
+using System.Security.Cryptography;
 using Vivero.BD.Datos;
+using Vivero.BD.Datos.Entity;
+using Vivero.Repositorio;
 using Vivero.Server.Client.Pages;
 using Vivero.Server.Components;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddControllers();
+builder.Services.AddSwaggerGen();
 
 var connectionString = builder.Configuration.GetConnectionString("ConnSqlServer")
     ?? throw new InvalidOperationException(
         "El string de conexion no existe");
 
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connectionString));
+
+builder.Services.AddScoped<IRepositorio<Producto>, Repositorio<Producto>>();
+builder.Services.AddScoped<IRepositorio<Administrador>, Repositorio<Administrador>>();
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
@@ -18,10 +27,13 @@ builder.Services.AddRazorComponents()
 
 var app = builder.Build();
 
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseWebAssemblyDebugging();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 else
 {
@@ -41,4 +53,5 @@ app.MapRazorComponents<App>()
     .AddInteractiveWebAssemblyRenderMode()
     .AddAdditionalAssemblies(typeof(Vivero.Server.Client._Imports).Assembly);
 
+app.MapControllers();
 app.Run();

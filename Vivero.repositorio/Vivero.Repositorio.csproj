@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Vivero.BD\Vivero.BD.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -12,8 +12,8 @@ using Vivero.BD.Datos;
 namespace Vivero.BD.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250624052324_tablas4")]
-    partial class tablas4
+    [Migration("20250915022009_Tablas")]
+    partial class Tablas
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -27,49 +27,97 @@ namespace Vivero.BD.Migrations
 
             modelBuilder.Entity("Vivero.BD.Datos.Entity.Administrador", b =>
                 {
-                    b.Property<int>("AdministradorId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AdministradorId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Contraseña")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<DateTime>("FechaRegistro")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Nombre")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
-                    b.HasKey("AdministradorId");
+                    b.Property<string>("Telefono")
+                        .HasMaxLength(15)
+                        .HasColumnType("nvarchar(15)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex(new[] { "Email" }, "Usuario_Email_UQ")
+                        .IsUnique();
 
                     b.ToTable("Administradores");
                 });
 
-            modelBuilder.Entity("Vivero.BD.Datos.Entity.Producto", b =>
+            modelBuilder.Entity("Vivero.BD.Datos.Entity.GestionProducto", b =>
                 {
-                    b.Property<int>("ProductoId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductoId"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("Accion")
+                        .HasColumnType("int");
+
+                    b.Property<int>("AdministradorId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("Fecha")
+                        .HasColumnType("datetime2");
+
+                    b.Property<int>("ProductoId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("AdministradorId");
+
+                    b.HasIndex("ProductoId");
+
+                    b.ToTable("GestionProductos");
+                });
+
+            modelBuilder.Entity("Vivero.BD.Datos.Entity.Producto", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<bool>("Activo")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Descripcion")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("FechaCreacion")
                         .HasColumnType("datetime2");
 
-                    b.Property<byte[]>("Imagen")
-                        .IsRequired()
-                        .HasColumnType("varbinary(max)");
+                    b.Property<string>("Imagen")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("Maceta")
                         .HasColumnType("int");
 
                     b.Property<string>("Nombre")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<double>("Precio")
                         .HasColumnType("float");
@@ -77,56 +125,28 @@ namespace Vivero.BD.Migrations
                     b.Property<int>("Stock")
                         .HasColumnType("int");
 
-                    b.HasKey("ProductoId");
+                    b.HasKey("Id");
 
                     b.ToTable("Productos");
                 });
 
-            modelBuilder.Entity("Vivero.BD.Datos.Entity.gestionProducto", b =>
-                {
-                    b.Property<int>("IdAdministrador")
-                        .HasColumnType("int");
-
-                    b.Property<int>("IdProducto")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime>("FechaAsignacion")
-                        .HasColumnType("datetime2");
-
-                    b.HasKey("IdAdministrador", "IdProducto");
-
-                    b.HasIndex("IdProducto");
-
-                    b.ToTable("gestionProductos");
-                });
-
-            modelBuilder.Entity("Vivero.BD.Datos.Entity.gestionProducto", b =>
+            modelBuilder.Entity("Vivero.BD.Datos.Entity.GestionProducto", b =>
                 {
                     b.HasOne("Vivero.BD.Datos.Entity.Administrador", "Administrador")
-                        .WithMany("gestionProductos")
-                        .HasForeignKey("IdAdministrador")
+                        .WithMany()
+                        .HasForeignKey("AdministradorId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.HasOne("Vivero.BD.Datos.Entity.Producto", "Producto")
-                        .WithMany("gestionProductos")
-                        .HasForeignKey("IdProducto")
+                        .WithMany()
+                        .HasForeignKey("ProductoId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Administrador");
 
                     b.Navigation("Producto");
-                });
-
-            modelBuilder.Entity("Vivero.BD.Datos.Entity.Administrador", b =>
-                {
-                    b.Navigation("gestionProductos");
-                });
-
-            modelBuilder.Entity("Vivero.BD.Datos.Entity.Producto", b =>
-                {
-                    b.Navigation("gestionProductos");
                 });
 #pragma warning restore 612, 618
         }
