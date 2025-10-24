@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vivero.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a207cd231246fb61d2496a22af76e8319b383300")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15aeee955306db106720263c56eda0f69c9e45b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vivero.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vivero.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

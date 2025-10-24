@@ -10,3 +10,15 @@ C:\Users\Matt\source\repos\Vivero\Vivero.Shared\obj\Debug\net9.0\Vivero.Shared.d
 C:\Users\Matt\source\repos\Vivero\Vivero.Shared\obj\Debug\net9.0\refint\Vivero.Shared.dll
 C:\Users\Matt\source\repos\Vivero\Vivero.Shared\obj\Debug\net9.0\Vivero.Shared.pdb
 C:\Users\Matt\source\repos\Vivero\Vivero.Shared\obj\Debug\net9.0\ref\Vivero.Shared.dll
+C:\Users\Matt\Source\Repos\Vivero_web\Vivero.Shared\bin\Debug\net9.0\Vivero.Shared.deps.json
+C:\Users\Matt\Source\Repos\Vivero_web\Vivero.Shared\bin\Debug\net9.0\Vivero.Shared.dll
+C:\Users\Matt\Source\Repos\Vivero_web\Vivero.Shared\bin\Debug\net9.0\Vivero.Shared.pdb
+C:\Users\Matt\Source\Repos\Vivero_web\Vivero.Shared\obj\Debug\net9.0\Vivero.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\Source\Repos\Vivero_web\Vivero.Shared\obj\Debug\net9.0\Vivero.Shared.AssemblyInfoInputs.cache
+C:\Users\Matt\Source\Repos\Vivero_web\Vivero.Shared\obj\Debug\net9.0\Vivero.Shared.AssemblyInfo.cs
+C:\Users\Matt\Source\Repos\Vivero_web\Vivero.Shared\obj\Debug\net9.0\Vivero.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Source\Repos\Vivero_web\Vivero.Shared\obj\Debug\net9.0\Vivero.Shared.sourcelink.json
+C:\Users\Matt\Source\Repos\Vivero_web\Vivero.Shared\obj\Debug\net9.0\Vivero.Shared.dll
+C:\Users\Matt\Source\Repos\Vivero_web\Vivero.Shared\obj\Debug\net9.0\refint\Vivero.Shared.dll
+C:\Users\Matt\Source\Repos\Vivero_web\Vivero.Shared\obj\Debug\net9.0\Vivero.Shared.pdb
+C:\Users\Matt\Source\Repos\Vivero_web\Vivero.Shared\obj\Debug\net9.0\ref\Vivero.Shared.dll

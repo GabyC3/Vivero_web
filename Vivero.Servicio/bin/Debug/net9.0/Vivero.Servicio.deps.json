@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "Vivero.Servicio/1.0.0": {
+        "dependencies": {
+          "Vivero.Shared": "1.0.0"
+        },
         "runtime": {
           "Vivero.Servicio.dll": {}
+        }
+      },
+      "Vivero.Shared/1.0.0": {
+        "runtime": {
+          "Vivero.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Vivero.Servicio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vivero.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

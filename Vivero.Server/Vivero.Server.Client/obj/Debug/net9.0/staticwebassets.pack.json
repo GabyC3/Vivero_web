@@ -1,19 +1,19 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Vivero.Server.Client.bundle.scp.css",
+      "Id": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Vivero.Server.Client.bundle.scp.css",
       "PackagePath": "staticwebassets\\Vivero.Server.Client.k3jobmg9x7.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Server\\Vivero.Server.Client\\wwwroot\\appsettings.Development.json",
+      "Id": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\wwwroot\\appsettings.Development.json",
       "PackagePath": "staticwebassets\\appsettings.Development.json"
     },
     {
-      "Id": "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Server\\Vivero.Server.Client\\wwwroot\\appsettings.json",
+      "Id": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {

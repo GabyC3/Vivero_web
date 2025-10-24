@@ -8,26 +8,23 @@ using System.Threading.Tasks;
 
 namespace Vivero.BD.Datos.Entity
 {
-    //[Index(nameof(ProductoId),Name = "Producto_IdProducto_UQ", IsUnique = true)]
-    public class Producto
+
+    public class Producto : EntityBase
     {
-
-        public required int ProductoId { get; set; }
-
-        public byte[] Imagen { get; set; }
+        public string? Imagen { get; set; }  //var imagenBytes = Convert.FromBase64String(productoDto.Imagen);
 
         [Required(ErrorMessage = "Es necesario ingresar el nombre del producto")]
+        [MaxLength(50, ErrorMessage = "La cantidad maxima de caracteres es de {50}")]
         public required string Nombre { get; set; }
         public int Maceta { get; set; }
-
-        //public string Descripcion { get; set; }
+        public string? Descripcion { get; set; }
 
         [Required(ErrorMessage = "Es necesario ingresar un precio")]
         public required double Precio { get; set; }
         public int Stock { get; set; }
+        public bool Activo { get; set; } = true;
         public DateTime FechaCreacion { get; set; }
 
-        // Relación muchos a muchos
-        public ICollection<gestionProducto> gestionProductos { get; set; }
     }
 }
+

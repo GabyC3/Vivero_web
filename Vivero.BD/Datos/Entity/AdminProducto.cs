@@ -4,18 +4,21 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Vivero.Shared.Enum;
 
 namespace Vivero.BD.Datos.Entity
 {
-    public class gestionProducto
+    public class GestionProducto : EntityBase
     {
-        public  int IdAdministrador { get; set; }
-        public  Administrador Administrador  { get; set; }
+        public int AdministradorId { get; set; }
+        public required Administrador Administrador { get; set; }
 
-        public int IdProducto { get; set; }
-        public  Producto Producto { get; set; }
+        public int ProductoId { get; set; }
+        public required Producto Producto { get; set; }
 
-        public DateTime FechaAsignacion { get; set; }
-        
+        public Accion Accion { get; set; }
+        public DateTime Fecha { get; set; }
+
     }
 }
+

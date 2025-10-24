@@ -1,2 +1,0 @@
-C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\wwwroot\appsettings.Development.json
-C:\Users\Matt\source\repos\Vivero\Vivero.Server\Vivero.Server.Client\wwwroot\appsettings.json
