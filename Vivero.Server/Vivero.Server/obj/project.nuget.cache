@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NJQDBMPtm8s=",
+  "dgSpecHash": "qV2U+dgPz5A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Server\\Vivero.Server\\Vivero.Server.csproj",
+  "projectFilePath": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server\\Vivero.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matt\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Matt\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

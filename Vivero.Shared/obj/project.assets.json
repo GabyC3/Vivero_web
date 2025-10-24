@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Shared\\Vivero.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Shared\\Vivero.Shared.csproj",
       "projectName": "Vivero.Shared",
-      "projectPath": "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Shared\\Vivero.Shared.csproj",
+      "projectPath": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Shared\\Vivero.Shared.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Shared\\obj\\",
+      "outputPath": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

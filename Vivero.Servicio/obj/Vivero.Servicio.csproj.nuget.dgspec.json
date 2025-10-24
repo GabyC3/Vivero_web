@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Servicio\\Vivero.Servicio.csproj": {}
+    "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Servicio\\Vivero.Servicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Servicio\\Vivero.Servicio.csproj": {
+    "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Servicio\\Vivero.Servicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Servicio\\Vivero.Servicio.csproj",
+        "projectUniqueName": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Servicio\\Vivero.Servicio.csproj",
         "projectName": "Vivero.Servicio",
-        "projectPath": "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Servicio\\Vivero.Servicio.csproj",
+        "projectPath": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Servicio\\Vivero.Servicio.csproj",
         "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Servicio\\obj\\",
+        "outputPath": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Servicio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

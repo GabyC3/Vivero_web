@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W1qkbDoY5VY=",
+  "dgSpecHash": "jPBV51wQAHU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matt\\source\\repos\\Vivero\\Vivero.Server\\Vivero.Server.Client\\Vivero.Server.Client.csproj",
+  "projectFilePath": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\Vivero.Server.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matt\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.4\\microsoft.aspnetcore.authorization.9.0.4.nupkg.sha512",
     "C:\\Users\\Matt\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.4\\microsoft.aspnetcore.components.9.0.4.nupkg.sha512",

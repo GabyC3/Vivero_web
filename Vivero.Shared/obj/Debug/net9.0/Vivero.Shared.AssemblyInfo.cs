@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vivero.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e87fdfb0ccc73b537c612ff32f272e08880a5b80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a207cd231246fb61d2496a22af76e8319b383300")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vivero.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vivero.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
