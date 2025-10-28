@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vivero.BD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15aeee955306db106720263c56eda0f69c9e45b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e521e83425355be441e5e940dabf036bede456c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vivero.BD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vivero.BD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

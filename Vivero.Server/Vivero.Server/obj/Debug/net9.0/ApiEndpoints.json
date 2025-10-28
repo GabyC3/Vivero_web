@@ -1,7 +1,90 @@
 [
   {
+    "ContainingType": "Vivero.Server.Controllers.AdminController",
+    "Method": "listaAdmins",
+    "RelativePath": "api/administradores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Vivero.Shared.DTO.ListaAdminDTO, Vivero.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vivero.Server.Controllers.AdminController",
+    "Method": "Post",
+    "RelativePath": "api/administradores",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "admin",
+        "Type": "Vivero.Shared.DTO.CrearAdminDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Vivero.Server.Controllers.AdminController",
+    "Method": "GetAdminById",
+    "RelativePath": "api/administradores/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Vivero.Shared.DTO.ListaAdminDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vivero.Server.Controllers.AdminController",
+    "Method": "Put",
+    "RelativePath": "api/administradores/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "usuario",
+        "Type": "Vivero.BD.Datos.Entity.Administrador",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Vivero.Server.Controllers.GestionController",
-    "Method": "listaProductos",
+    "Method": "listaGestion",
     "RelativePath": "api/gestion",
     "HttpMethod": "GET",
     "IsController": true,
@@ -10,6 +93,32 @@
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.List\u00601[[Vivero.Shared.DTO.ListaGestionDTO, Vivero.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Vivero.Server.Controllers.GestionController",
+    "Method": "Post",
+    "RelativePath": "api/gestion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "producto",
+        "Type": "Vivero.Shared.DTO.CrearGestionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -48,7 +157,7 @@
   {
     "ContainingType": "Vivero.Server.Controllers.ProductoController",
     "Method": "listaProductos",
-    "RelativePath": "api/productos",
+    "RelativePath": "api/producto",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -68,7 +177,7 @@
   {
     "ContainingType": "Vivero.Server.Controllers.ProductoController",
     "Method": "Post",
-    "RelativePath": "api/productos",
+    "RelativePath": "api/producto",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -79,12 +188,22 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "Vivero.Server.Controllers.ProductoController",
     "Method": "GetById",
-    "RelativePath": "api/productos/{id}",
+    "RelativePath": "api/producto/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -110,7 +229,7 @@
   {
     "ContainingType": "Vivero.Server.Controllers.ProductoController",
     "Method": "Put",
-    "RelativePath": "api/productos/{id}",
+    "RelativePath": "api/producto/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -131,7 +250,7 @@
   {
     "ContainingType": "Vivero.Server.Controllers.ProductoController",
     "Method": "borrarProducto",
-    "RelativePath": "api/productos/{id}",
+    "RelativePath": "api/producto/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -144,89 +263,6 @@
       {
         "Name": "producto",
         "Type": "Vivero.BD.Datos.Entity.Producto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Vivero.Server.Controllers.AdminController",
-    "Method": "listaAdmins",
-    "RelativePath": "api/usuarios",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.List\u00601[[Vivero.Shared.DTO.ListaAdminDTO, Vivero.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Vivero.Server.Controllers.AdminController",
-    "Method": "Post",
-    "RelativePath": "api/usuarios",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "admin",
-        "Type": "Vivero.Shared.DTO.CrearAdminDTO",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "Vivero.Server.Controllers.AdminController",
-    "Method": "GetAdminById",
-    "RelativePath": "api/usuarios/{id}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "Vivero.Shared.DTO.ListaAdminDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Vivero.Server.Controllers.AdminController",
-    "Method": "Put",
-    "RelativePath": "api/usuarios/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "usuario",
-        "Type": "Vivero.BD.Datos.Entity.Administrador",
         "IsRequired": true
       }
     ],

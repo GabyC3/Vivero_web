@@ -8,11 +8,11 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 namespace Vivero.Server.Controllers
 {
     [ApiController]
-    [Route("api/productos")]
+    [Route("api/producto")]
     public class ProductoController : ControllerBase
     {
         private readonly IRepositorio<Producto> repositorio;
-
+        
 
         public ProductoController(IRepositorio<Producto> repositorio)
         {
@@ -56,13 +56,13 @@ namespace Vivero.Server.Controllers
 
 
         [HttpPost]
-        public async Task<ActionResult> Post(CrearProductoDTO producto)
+        public async Task<ActionResult<int>> Post(CrearProductoDTO producto)
         {
             try
             {
                 Producto entidad = new Producto
                 {
-                    Id = 0,  //producto.Id,
+                    Id = producto.Id,
                     Imagen = producto.Imagen,
                     Nombre = producto.Nombre!,
                     Maceta = producto.Maceta,
@@ -76,7 +76,7 @@ namespace Vivero.Server.Controllers
 
                 await repositorio.Insert(entidad);
 
-                return Ok("El producto se ha registrado exitosamente");
+                return Ok(entidad.Id);
             }
             catch (Exception e)
             {

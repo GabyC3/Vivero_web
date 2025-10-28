@@ -6,7 +6,7 @@ using Vivero.Shared.DTO;
 namespace Vivero.Server.Controllers
 {
     [ApiController]
-    [Route("api/usuarios")]
+    [Route("api/administradores")]
     public class AdminController : ControllerBase
     {
         private readonly IRepositorio<Administrador> repositorio;
@@ -64,7 +64,8 @@ namespace Vivero.Server.Controllers
                     Nombre = admin.Nombre!,
                     Email = admin.Email!,
                     Telefono = admin.Telefono,
-                    Contraseña = admin.Contraseña!
+                    Contraseña = admin.Contraseña!,
+                    FechaRegistro = DateTime.Now
                 };
 
 

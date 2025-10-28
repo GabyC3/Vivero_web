@@ -1,0 +1,80 @@
+﻿@page "/productos/editar"
+
+@inject IHttpServicio http
+@inject NavigationManager navHttp
+
+<h3>Editar Producto</h3>
+<br />
+
+<EditForm Model="producto" OnValidSubmit="cargarProducto">
+	<DataAnnotationsValidator />
+	<ValidationSummary />
+
+	<div class="form-group">
+		<div>
+			<label> Imagen </label>
+			<InputText class="form-control" @bind-Value="@producto.Imagen"></InputText>
+			<ValidationMessage For="@( () => producto.Imagen)" />
+		</div>
+		<div>
+			<label> Nombre </label>
+			<InputText class="form-control" @bind-Value="@producto.Nombre"></InputText>
+			<ValidationMessage For="@( () => producto.Nombre)" />
+		</div>
+		<div>
+			<label> Maceta </label>
+			<InputNumber class="form-control" @bind-Value="@producto.Maceta"></InputNumber>
+			<ValidationMessage For="@( () => producto.Maceta)" />
+		</div>
+		<div>
+			<label> Descripcion </label>
+			<InputText class="form-control" @bind-Value="@producto.Descripcion"></InputText>
+			<ValidationMessage For="@( () => producto.Descripcion)" />
+		</div>
+		<div>
+			<label> Precio </label>
+			<InputNumber class="form-control" @bind-Value="@producto.Precio"></InputNumber>
+			<ValidationMessage For="@( () => producto.Precio)" />
+		</div>
+		<div>
+			<label> Stock </label>
+			<InputNumber class="form-control" @bind-Value="@producto.Stock"></InputNumber>
+			<ValidationMessage For="@( () => producto.Stock)" />
+		</div>
+	</div>
+
+
+	<button class="btn btn-primary" type="submit">Aceptar</button>
+	<button class="btn btn-primary" @onclick="Cancelar">Cancelar</button>
+
+	<br />
+	<p>@Mensaje</p>
+</EditForm>
+
+@code {
+	private CrearProductoDTO producto = new CrearProductoDTO();
+	private CrearGestionDTO proceso = new CrearGestionDTO();
+	string Mensaje = string.Empty;
+
+	private async Task cargarProducto()
+	{
+		var httpResp = await http.Post<CrearProductoDTO, int>("api/producto", producto);
+		proceso.ProductoId = httpResp.Respuesta;
+		var httpRespuesta = await http.Post<CrearGestionDTO, int>("api/gestion", proceso);
+
+		if (!httpResp.Error)
+		{
+			navHttp.NavigateTo("/productos");
+		}
+		else
+		{
+			Mensaje = httpResp.ObtenerError();
+		}
+	}
+
+	private void Cancelar()
+	{
+		navHttp.NavigateTo("/productos");
+	}
+}
+

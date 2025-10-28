@@ -5,6 +5,7 @@ using Vivero.BD.Datos.Entity;
 using Vivero.Repositorio;
 using Vivero.Server.Client.Pages;
 using Vivero.Server.Components;
+using Vivero.Servicio.ServicioHttp;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,11 +20,16 @@ builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(conn
 
 builder.Services.AddScoped<IRepositorio<Producto>, Repositorio<Producto>>();
 builder.Services.AddScoped<IRepositorio<Administrador>, Repositorio<Administrador>>();
+builder.Services.AddScoped<IRepositorio<GestionProducto>, Repositorio<GestionProducto>>();
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents()
     .AddInteractiveWebAssemblyComponents();
+
+builder.Services.AddHttpClient<IHttpServicio, HttpServicio>();
+
+builder.Services.AddServerSideBlazor().AddCircuitOptions(options => { options.DetailedErrors = true; });
 
 var app = builder.Build();
 

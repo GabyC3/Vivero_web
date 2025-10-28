@@ -20,7 +20,7 @@ namespace Vivero.Server.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<List<ListaGestionDTO>>> listaProductos()
+        public async Task<ActionResult<List<ListaGestionDTO>>> listaGestion()
         {
             try
             {
@@ -45,6 +45,9 @@ namespace Vivero.Server.Controllers
         [HttpGet("{id:int}")]
         public async Task<ActionResult<ListaGestionDTO>> GetById(int id)
         {
+
+          try {
+
             var entidad = await repositorio.SelectById(id);
             if (entidad is null)
             {
@@ -52,9 +55,38 @@ namespace Vivero.Server.Controllers
             }
 
             return Ok(entidad);
+
+          } catch (Exception e) {
+                return BadRequest($"Error al mostrar la lista: {e.Message}");
+          }
         }
 
+        [HttpPost]
+        public async Task<ActionResult<int>> Post(CrearGestionDTO producto)
+        {
+            try
+            {
+                GestionProducto entidad = new GestionProducto
+                {
+                    Id = producto.Id,
+                    AdministradorId = producto.AdministradorId,
+                    ProductoId = producto.ProductoId,
+                    Accion = producto.Accion,
+                    Fecha = producto.Fecha
 
+                };
+
+
+                await repositorio.Insert(entidad);
+
+                return Ok(producto.Id);
+            }
+            catch (Exception e)
+            {
+                return BadRequest($"Error al registrar el proceso: {e.Message}");
+            }
+
+        }
     }
 
 

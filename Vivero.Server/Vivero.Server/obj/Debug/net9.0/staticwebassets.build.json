@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5nd6fnv+e7pvYxxBEbOzB8gntO1pjwBEvLyYvLSf37k=",
+  "Hash": "/Hd3tyxVEohchJVeUVRcJiAw7GtUkHVK4HamkViJTc0=",
   "Source": "Vivero.Server",
   "BasePath": "_content/Vivero.Server",
   "Mode": "Default",
@@ -50,8 +50,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "rofkfshrdf",
-      "Integrity": "a7uyWQIuR3YG1owbEF6sFubVmv2SezUWwjGEcTDu0j0=",
+      "Fingerprint": "d26k20o132",
+      "Integrity": "S6J7kEA2jbyZAkC42EF6O6YAkZ8M1amT0Sbwhz2u6JQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -4271,8 +4271,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "78tbn0z8ox",
-      "Integrity": "SfCcX6LsJxjudDKPVcJMhQoVcC6p8MIdpew20+tXW0c=",
+      "Fingerprint": "pxnxblp8l7",
+      "Integrity": "kxnjFZkLJL2pNDuzVyZUbNx4Cb5AbVZcWohOsb9gQdo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Server.Client.pdb"
@@ -4292,8 +4292,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "pbixtyfnn0",
-      "Integrity": "+2/G7CuxVtCmyPFhN+HJmbu1xiJ+oVzZLXZPYg2iR0A=",
+      "Fingerprint": "5g6dat67uf",
+      "Integrity": "G6ApUGCNotmD5sDiZqnw/0cAM6sAGIAp5TIlXzIuf4E=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Server.Client.wasm"
@@ -4313,8 +4313,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "2umejjjk99",
-      "Integrity": "GrojpvFZGQ0xoPRa9lJtyXtEHEUdtgird5ffdzwPFcA=",
+      "Fingerprint": "9erhkp2lq5",
+      "Integrity": "8ZwutlQgDkojaPsGSjMpR9XsyTpxzRgCgVk+PiZ784g=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Servicio.pdb"
@@ -4334,8 +4334,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "qhv36b39oe",
-      "Integrity": "LgRvMtEQeuY2kXohfWW9MnxjYWZCpEAtMqMHzJlUaJU=",
+      "Fingerprint": "giahqna4x7",
+      "Integrity": "iPpXvMQvEECNqQjPyIG4RwOvTDe9nMMU2fgoHgQwm5E=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Servicio.wasm"
@@ -4355,8 +4355,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "o26y3b6x54",
-      "Integrity": "QOJ/aYD5vQtrAoDyDg4WY4e1vDmisK0Xg1L3PVuWcw8=",
+      "Fingerprint": "0wsuxkab4i",
+      "Integrity": "QCEYBgT4tSfU3PYNCBHwrtyfqcMp7tRpFZzG+6Sf4Us=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Shared.pdb"
@@ -4376,8 +4376,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "pul99hvp6m",
-      "Integrity": "4ZMHdGAIru8zkpF0om8D06XZtu02jTNWcqCogUt+vl8=",
+      "Fingerprint": "klj6fh7dj0",
+      "Integrity": "SFRAd9ziMSjZCPK5oNqmtNNaxzzQ4t8GqCfm/4bk3JQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Shared.wasm"
@@ -5118,7 +5118,7 @@
       "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\5qzst9c7d5-57yqx28bdw.gz"
     },
     {
-      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\5r0dbcvf3u-rofkfshrdf.gz",
+      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\5r0dbcvf3u-d26k20o132.gz",
       "SourceId": "Vivero.Server.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -5132,11 +5132,11 @@
       "RelatedAsset": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "l69k8ui7jr",
-      "Integrity": "g3QzEzLVItrk69sm/6UI+F+W0JS+wGQr8gfYW6x/3e4=",
+      "Fingerprint": "xu40eze6uh",
+      "Integrity": "Z00KgbjDPR73BRThMV/ITG2Gpu5ALtHsDH+6ts4k7Q4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\5r0dbcvf3u-rofkfshrdf.gz"
+      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\5r0dbcvf3u-d26k20o132.gz"
     },
     {
       "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\5svy6g7unt-ztjd6fle53.gz",
@@ -5622,12 +5622,12 @@
       "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\b05fdzyq2s-wne6lzve40.gz"
     },
     {
-      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bjfxc8ujnc-78tbn0z8ox.gz",
+      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bjfxc8ujnc-pxnxblp8l7.gz",
       "SourceId": "Vivero.Server.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Vivero.Server.Client#[.{fingerprint=78tbn0z8ox}]!.pdb.gz",
+      "RelativePath": "_framework/Vivero.Server.Client#[.{fingerprint=pxnxblp8l7}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5636,11 +5636,11 @@
       "RelatedAsset": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Server.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "kvrnpwmg71",
-      "Integrity": "IHq/n2u9sEGVjCT5nH9BtSvqczYthXNyhlkjtd/aiAo=",
+      "Fingerprint": "lx9u449bft",
+      "Integrity": "Nw6yM2hVsJPBxMLzz00khS8wdan/5CEzxdFgAvXd8G8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bjfxc8ujnc-78tbn0z8ox.gz"
+      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bjfxc8ujnc-pxnxblp8l7.gz"
     },
     {
       "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bn7855k3xf-tjcz0u77k5.gz",
@@ -5706,12 +5706,12 @@
       "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bslisfejuq-mnju7fj288.gz"
     },
     {
-      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bwogtj74ox-qhv36b39oe.gz",
+      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bwogtj74ox-giahqna4x7.gz",
       "SourceId": "Vivero.Server.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Vivero.Servicio#[.{fingerprint=qhv36b39oe}]!.wasm.gz",
+      "RelativePath": "_framework/Vivero.Servicio#[.{fingerprint=giahqna4x7}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5720,11 +5720,11 @@
       "RelatedAsset": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Servicio.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "m4arwup27v",
-      "Integrity": "+isBv5eXk+T+fTIA07zbfG0FD7tDXo+Fo74jpZtO+EI=",
+      "Fingerprint": "nvt1fpth30",
+      "Integrity": "fS+Ko4hfkpSZaMuQqKwsxe4VjejVaWCo9RGBO/h9lIc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bwogtj74ox-qhv36b39oe.gz"
+      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bwogtj74ox-giahqna4x7.gz"
     },
     {
       "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\c5qo7jt81v-rov4p20cgi.gz",
@@ -8079,12 +8079,12 @@
       "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\uvt63356cb-o2cymefcsn.gz"
     },
     {
-      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\uzq2fkmc0a-2umejjjk99.gz",
+      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\uzq2fkmc0a-9erhkp2lq5.gz",
       "SourceId": "Vivero.Server.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Vivero.Servicio#[.{fingerprint=2umejjjk99}]!.pdb.gz",
+      "RelativePath": "_framework/Vivero.Servicio#[.{fingerprint=9erhkp2lq5}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8093,11 +8093,11 @@
       "RelatedAsset": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Servicio.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9dtpny9gjo",
-      "Integrity": "E9B34GIEUyze8YrPSeeboWCA80UCMLIdzXWnHP6NANY=",
+      "Fingerprint": "4h5zt41ohg",
+      "Integrity": "iBwP3+3Ww3HG1hwJc0T+PlSJ9CbMWzCqx8XLiRCmdbQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\uzq2fkmc0a-2umejjjk99.gz"
+      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\uzq2fkmc0a-9erhkp2lq5.gz"
     },
     {
       "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\v20defq55h-ulrjke3m9v.gz",
@@ -8583,12 +8583,12 @@
       "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\yjesouh6k0-g1z5na32ay.gz"
     },
     {
-      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ylsxn5mri6-pul99hvp6m.gz",
+      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ylsxn5mri6-klj6fh7dj0.gz",
       "SourceId": "Vivero.Server.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Vivero.Shared#[.{fingerprint=pul99hvp6m}]!.wasm.gz",
+      "RelativePath": "_framework/Vivero.Shared#[.{fingerprint=klj6fh7dj0}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8597,19 +8597,19 @@
       "RelatedAsset": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Shared.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zcgqn2l92m",
-      "Integrity": "rdsTzXoqrRrWEMjaYWLCBvfuwgbkBKxIRujS2pxX/no=",
+      "Fingerprint": "ynbx47udd2",
+      "Integrity": "siZFb8z4ho6mAglYlE6Cyv/eCUSrpJ8I33I1u28JY/4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ylsxn5mri6-pul99hvp6m.gz"
+      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ylsxn5mri6-klj6fh7dj0.gz"
     },
     {
-      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ym0senvdbe-pbixtyfnn0.gz",
+      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ym0senvdbe-5g6dat67uf.gz",
       "SourceId": "Vivero.Server.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Vivero.Server.Client#[.{fingerprint=pbixtyfnn0}]!.wasm.gz",
+      "RelativePath": "_framework/Vivero.Server.Client#[.{fingerprint=5g6dat67uf}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8618,11 +8618,11 @@
       "RelatedAsset": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Server.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "8ziul6cvjk",
-      "Integrity": "bLd+mCfdcWCb5ISl6BVQjrZrtRU800jLaTnosEBEriw=",
+      "Fingerprint": "wprmtojo8q",
+      "Integrity": "LP0EQcjxFPz2WY00+Z3NWj1omGeI0CY6CGuMd/fTPzg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ym0senvdbe-pbixtyfnn0.gz"
+      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ym0senvdbe-5g6dat67uf.gz"
     },
     {
       "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ywchz0d80i-v0pk5dv1s1.gz",
@@ -8751,12 +8751,12 @@
       "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zfrjxdke25-0zghtgeywx.gz"
     },
     {
-      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zhpsfsn2no-o26y3b6x54.gz",
+      "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zhpsfsn2no-0wsuxkab4i.gz",
       "SourceId": "Vivero.Server.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Vivero.Shared#[.{fingerprint=o26y3b6x54}]!.pdb.gz",
+      "RelativePath": "_framework/Vivero.Shared#[.{fingerprint=0wsuxkab4i}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8765,11 +8765,11 @@
       "RelatedAsset": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Shared.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "yqffrrm34n",
-      "Integrity": "emTUgHoi0NI4JDOjVsc38pRm8Tj55Zu1ZIumQBo1Mek=",
+      "Fingerprint": "iw4tp8wc2q",
+      "Integrity": "EpfBDBqFadFWU+hjLUsFWvbuIDCNq0MrTJ1CbymRW40=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zhpsfsn2no-o26y3b6x54.gz"
+      "OriginalItemSpec": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zhpsfsn2no-0wsuxkab4i.gz"
     },
     {
       "Identity": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zkx78t8sce-a9zrqgxt1b.gz",
@@ -10875,28 +10875,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"a7uyWQIuR3YG1owbEF6sFubVmv2SezUWwjGEcTDu0j0=\""
+          "Value": "\"S6J7kEA2jbyZAkC42EF6O6YAkZ8M1amT0Sbwhz2u6JQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:07:40 GMT"
+          "Value": "Tue, 28 Oct 2025 05:00:02 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-a7uyWQIuR3YG1owbEF6sFubVmv2SezUWwjGEcTDu0j0="
+          "Value": "sha256-S6J7kEA2jbyZAkC42EF6O6YAkZ8M1amT0Sbwhz2u6JQ="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\5r0dbcvf3u-rofkfshrdf.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\5r0dbcvf3u-d26k20o132.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000079088896"
+          "Quality": "0.000079076388"
         }
       ],
       "ResponseHeaders": [
@@ -10914,15 +10914,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12643"
+          "Value": "12645"
         },
         {
           "Name": "ETag",
-          "Value": "\"g3QzEzLVItrk69sm/6UI+F+W0JS+wGQr8gfYW6x/3e4=\""
+          "Value": "\"Z00KgbjDPR73BRThMV/ITG2Gpu5ALtHsDH+6ts4k7Q4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
         },
         {
           "Name": "Vary",
@@ -10934,19 +10934,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"a7uyWQIuR3YG1owbEF6sFubVmv2SezUWwjGEcTDu0j0=\""
+          "Value": "W/\"S6J7kEA2jbyZAkC42EF6O6YAkZ8M1amT0Sbwhz2u6JQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-a7uyWQIuR3YG1owbEF6sFubVmv2SezUWwjGEcTDu0j0="
+          "Value": "sha256-S6J7kEA2jbyZAkC42EF6O6YAkZ8M1amT0Sbwhz2u6JQ="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\5r0dbcvf3u-rofkfshrdf.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\5r0dbcvf3u-d26k20o132.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10963,7 +10963,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12643"
+          "Value": "12645"
         },
         {
           "Name": "Content-Type",
@@ -10971,11 +10971,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g3QzEzLVItrk69sm/6UI+F+W0JS+wGQr8gfYW6x/3e4=\""
+          "Value": "\"Z00KgbjDPR73BRThMV/ITG2Gpu5ALtHsDH+6ts4k7Q4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
         },
         {
           "Name": "Vary",
@@ -10985,7 +10985,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-g3QzEzLVItrk69sm/6UI+F+W0JS+wGQr8gfYW6x/3e4="
+          "Value": "sha256-Z00KgbjDPR73BRThMV/ITG2Gpu5ALtHsDH+6ts4k7Q4="
         }
       ]
     },
@@ -70429,168 +70429,7 @@
       ]
     },
     {
-      "Route": "_framework/Vivero.Server.Client.78tbn0z8ox.pdb",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Server.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23504"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SfCcX6LsJxjudDKPVcJMhQoVcC6p8MIdpew20+tXW0c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:07:39 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "78tbn0z8ox"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SfCcX6LsJxjudDKPVcJMhQoVcC6p8MIdpew20+tXW0c="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Vivero.Server.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Vivero.Server.Client.78tbn0z8ox.pdb",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bjfxc8ujnc-78tbn0z8ox.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000058795861"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17007"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IHq/n2u9sEGVjCT5nH9BtSvqczYthXNyhlkjtd/aiAo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:07:40 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"SfCcX6LsJxjudDKPVcJMhQoVcC6p8MIdpew20+tXW0c=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "78tbn0z8ox"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SfCcX6LsJxjudDKPVcJMhQoVcC6p8MIdpew20+tXW0c="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Vivero.Server.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Vivero.Server.Client.78tbn0z8ox.pdb.gz",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bjfxc8ujnc-78tbn0z8ox.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17007"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"IHq/n2u9sEGVjCT5nH9BtSvqczYthXNyhlkjtd/aiAo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:07:40 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "78tbn0z8ox"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-IHq/n2u9sEGVjCT5nH9BtSvqczYthXNyhlkjtd/aiAo="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Vivero.Server.Client.pdb.gz"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Vivero.Server.Client.pbixtyfnn0.wasm",
+      "Route": "_framework/Vivero.Server.Client.5g6dat67uf.wasm",
       "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Server.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -70604,7 +70443,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18197"
+          "Value": "38165"
         },
         {
           "Name": "Content-Type",
@@ -70612,21 +70451,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+2/G7CuxVtCmyPFhN+HJmbu1xiJ+oVzZLXZPYg2iR0A=\""
+          "Value": "\"G6ApUGCNotmD5sDiZqnw/0cAM6sAGIAp5TIlXzIuf4E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:07:39 GMT"
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pbixtyfnn0"
+          "Value": "5g6dat67uf"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+2/G7CuxVtCmyPFhN+HJmbu1xiJ+oVzZLXZPYg2iR0A="
+          "Value": "sha256-G6ApUGCNotmD5sDiZqnw/0cAM6sAGIAp5TIlXzIuf4E="
         },
         {
           "Name": "label",
@@ -70635,13 +70474,13 @@
       ]
     },
     {
-      "Route": "_framework/Vivero.Server.Client.pbixtyfnn0.wasm",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ym0senvdbe-pbixtyfnn0.gz",
+      "Route": "_framework/Vivero.Server.Client.5g6dat67uf.wasm",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ym0senvdbe-5g6dat67uf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000136630687"
+          "Quality": "0.000072764316"
         }
       ],
       "ResponseHeaders": [
@@ -70659,15 +70498,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7318"
+          "Value": "13742"
         },
         {
           "Name": "ETag",
-          "Value": "\"bLd+mCfdcWCb5ISl6BVQjrZrtRU800jLaTnosEBEriw=\""
+          "Value": "\"LP0EQcjxFPz2WY00+Z3NWj1omGeI0CY6CGuMd/fTPzg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:07:40 GMT"
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
         },
         {
           "Name": "Vary",
@@ -70679,17 +70518,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+2/G7CuxVtCmyPFhN+HJmbu1xiJ+oVzZLXZPYg2iR0A=\""
+          "Value": "W/\"G6ApUGCNotmD5sDiZqnw/0cAM6sAGIAp5TIlXzIuf4E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pbixtyfnn0"
+          "Value": "5g6dat67uf"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+2/G7CuxVtCmyPFhN+HJmbu1xiJ+oVzZLXZPYg2iR0A="
+          "Value": "sha256-G6ApUGCNotmD5sDiZqnw/0cAM6sAGIAp5TIlXzIuf4E="
         },
         {
           "Name": "label",
@@ -70698,8 +70537,8 @@
       ]
     },
     {
-      "Route": "_framework/Vivero.Server.Client.pbixtyfnn0.wasm.gz",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ym0senvdbe-pbixtyfnn0.gz",
+      "Route": "_framework/Vivero.Server.Client.5g6dat67uf.wasm.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ym0senvdbe-5g6dat67uf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70716,7 +70555,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7318"
+          "Value": "13742"
         },
         {
           "Name": "Content-Type",
@@ -70724,11 +70563,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bLd+mCfdcWCb5ISl6BVQjrZrtRU800jLaTnosEBEriw=\""
+          "Value": "\"LP0EQcjxFPz2WY00+Z3NWj1omGeI0CY6CGuMd/fTPzg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:07:40 GMT"
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
         },
         {
           "Name": "Vary",
@@ -70738,11 +70577,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pbixtyfnn0"
+          "Value": "5g6dat67uf"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bLd+mCfdcWCb5ISl6BVQjrZrtRU800jLaTnosEBEriw="
+          "Value": "sha256-LP0EQcjxFPz2WY00+Z3NWj1omGeI0CY6CGuMd/fTPzg="
         },
         {
           "Name": "label",
@@ -70765,7 +70604,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23504"
+          "Value": "34284"
         },
         {
           "Name": "Content-Type",
@@ -70773,28 +70612,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SfCcX6LsJxjudDKPVcJMhQoVcC6p8MIdpew20+tXW0c=\""
+          "Value": "\"kxnjFZkLJL2pNDuzVyZUbNx4Cb5AbVZcWohOsb9gQdo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:07:39 GMT"
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SfCcX6LsJxjudDKPVcJMhQoVcC6p8MIdpew20+tXW0c="
+          "Value": "sha256-kxnjFZkLJL2pNDuzVyZUbNx4Cb5AbVZcWohOsb9gQdo="
         }
       ]
     },
     {
       "Route": "_framework/Vivero.Server.Client.pdb",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bjfxc8ujnc-78tbn0z8ox.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bjfxc8ujnc-pxnxblp8l7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000058795861"
+          "Quality": "0.000037717346"
         }
       ],
       "ResponseHeaders": [
@@ -70812,15 +70651,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17007"
+          "Value": "26512"
         },
         {
           "Name": "ETag",
-          "Value": "\"IHq/n2u9sEGVjCT5nH9BtSvqczYthXNyhlkjtd/aiAo=\""
+          "Value": "\"Nw6yM2hVsJPBxMLzz00khS8wdan/5CEzxdFgAvXd8G8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:07:40 GMT"
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
         },
         {
           "Name": "Vary",
@@ -70832,19 +70671,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"SfCcX6LsJxjudDKPVcJMhQoVcC6p8MIdpew20+tXW0c=\""
+          "Value": "W/\"kxnjFZkLJL2pNDuzVyZUbNx4Cb5AbVZcWohOsb9gQdo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-SfCcX6LsJxjudDKPVcJMhQoVcC6p8MIdpew20+tXW0c="
+          "Value": "sha256-kxnjFZkLJL2pNDuzVyZUbNx4Cb5AbVZcWohOsb9gQdo="
         }
       ]
     },
     {
       "Route": "_framework/Vivero.Server.Client.pdb.gz",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bjfxc8ujnc-78tbn0z8ox.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bjfxc8ujnc-pxnxblp8l7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70861,7 +70700,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17007"
+          "Value": "26512"
         },
         {
           "Name": "Content-Type",
@@ -70869,11 +70708,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IHq/n2u9sEGVjCT5nH9BtSvqczYthXNyhlkjtd/aiAo=\""
+          "Value": "\"Nw6yM2hVsJPBxMLzz00khS8wdan/5CEzxdFgAvXd8G8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:07:40 GMT"
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
         },
         {
           "Name": "Vary",
@@ -70883,7 +70722,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IHq/n2u9sEGVjCT5nH9BtSvqczYthXNyhlkjtd/aiAo="
+          "Value": "sha256-Nw6yM2hVsJPBxMLzz00khS8wdan/5CEzxdFgAvXd8G8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Vivero.Server.Client.pxnxblp8l7.pdb",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Server.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kxnjFZkLJL2pNDuzVyZUbNx4Cb5AbVZcWohOsb9gQdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pxnxblp8l7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kxnjFZkLJL2pNDuzVyZUbNx4Cb5AbVZcWohOsb9gQdo="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Vivero.Server.Client.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Vivero.Server.Client.pxnxblp8l7.pdb",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bjfxc8ujnc-pxnxblp8l7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000037717346"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26512"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nw6yM2hVsJPBxMLzz00khS8wdan/5CEzxdFgAvXd8G8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kxnjFZkLJL2pNDuzVyZUbNx4Cb5AbVZcWohOsb9gQdo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pxnxblp8l7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kxnjFZkLJL2pNDuzVyZUbNx4Cb5AbVZcWohOsb9gQdo="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Vivero.Server.Client.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Vivero.Server.Client.pxnxblp8l7.pdb.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bjfxc8ujnc-pxnxblp8l7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26512"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nw6yM2hVsJPBxMLzz00khS8wdan/5CEzxdFgAvXd8G8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pxnxblp8l7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nw6yM2hVsJPBxMLzz00khS8wdan/5CEzxdFgAvXd8G8="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Vivero.Server.Client.pdb.gz"
         }
       ]
     },
@@ -70902,7 +70902,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "18197"
+          "Value": "38165"
         },
         {
           "Name": "Content-Type",
@@ -70910,28 +70910,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+2/G7CuxVtCmyPFhN+HJmbu1xiJ+oVzZLXZPYg2iR0A=\""
+          "Value": "\"G6ApUGCNotmD5sDiZqnw/0cAM6sAGIAp5TIlXzIuf4E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:07:39 GMT"
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+2/G7CuxVtCmyPFhN+HJmbu1xiJ+oVzZLXZPYg2iR0A="
+          "Value": "sha256-G6ApUGCNotmD5sDiZqnw/0cAM6sAGIAp5TIlXzIuf4E="
         }
       ]
     },
     {
       "Route": "_framework/Vivero.Server.Client.wasm",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ym0senvdbe-pbixtyfnn0.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ym0senvdbe-5g6dat67uf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000136630687"
+          "Quality": "0.000072764316"
         }
       ],
       "ResponseHeaders": [
@@ -70949,15 +70949,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7318"
+          "Value": "13742"
         },
         {
           "Name": "ETag",
-          "Value": "\"bLd+mCfdcWCb5ISl6BVQjrZrtRU800jLaTnosEBEriw=\""
+          "Value": "\"LP0EQcjxFPz2WY00+Z3NWj1omGeI0CY6CGuMd/fTPzg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:07:40 GMT"
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
         },
         {
           "Name": "Vary",
@@ -70969,19 +70969,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+2/G7CuxVtCmyPFhN+HJmbu1xiJ+oVzZLXZPYg2iR0A=\""
+          "Value": "W/\"G6ApUGCNotmD5sDiZqnw/0cAM6sAGIAp5TIlXzIuf4E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+2/G7CuxVtCmyPFhN+HJmbu1xiJ+oVzZLXZPYg2iR0A="
+          "Value": "sha256-G6ApUGCNotmD5sDiZqnw/0cAM6sAGIAp5TIlXzIuf4E="
         }
       ]
     },
     {
       "Route": "_framework/Vivero.Server.Client.wasm.gz",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ym0senvdbe-pbixtyfnn0.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ym0senvdbe-5g6dat67uf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -70998,7 +70998,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7318"
+          "Value": "13742"
         },
         {
           "Name": "Content-Type",
@@ -71006,11 +71006,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bLd+mCfdcWCb5ISl6BVQjrZrtRU800jLaTnosEBEriw=\""
+          "Value": "\"LP0EQcjxFPz2WY00+Z3NWj1omGeI0CY6CGuMd/fTPzg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:07:40 GMT"
+          "Value": "Tue, 28 Oct 2025 04:03:35 GMT"
         },
         {
           "Name": "Vary",
@@ -71020,12 +71020,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bLd+mCfdcWCb5ISl6BVQjrZrtRU800jLaTnosEBEriw="
+          "Value": "sha256-LP0EQcjxFPz2WY00+Z3NWj1omGeI0CY6CGuMd/fTPzg="
         }
       ]
     },
     {
-      "Route": "_framework/Vivero.Servicio.2umejjjk99.pdb",
+      "Route": "_framework/Vivero.Servicio.9erhkp2lq5.pdb",
       "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Servicio.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71039,7 +71039,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10676"
+          "Value": "12724"
         },
         {
           "Name": "Content-Type",
@@ -71047,21 +71047,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GrojpvFZGQ0xoPRa9lJtyXtEHEUdtgird5ffdzwPFcA=\""
+          "Value": "\"8ZwutlQgDkojaPsGSjMpR9XsyTpxzRgCgVk+PiZ784g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:17 GMT"
+          "Value": "Tue, 28 Oct 2025 05:00:00 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2umejjjk99"
+          "Value": "9erhkp2lq5"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GrojpvFZGQ0xoPRa9lJtyXtEHEUdtgird5ffdzwPFcA="
+          "Value": "sha256-8ZwutlQgDkojaPsGSjMpR9XsyTpxzRgCgVk+PiZ784g="
         },
         {
           "Name": "label",
@@ -71070,13 +71070,13 @@
       ]
     },
     {
-      "Route": "_framework/Vivero.Servicio.2umejjjk99.pdb",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\uzq2fkmc0a-2umejjjk99.gz",
+      "Route": "_framework/Vivero.Servicio.9erhkp2lq5.pdb",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\uzq2fkmc0a-9erhkp2lq5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000159261029"
+          "Quality": "0.000134716422"
         }
       ],
       "ResponseHeaders": [
@@ -71094,15 +71094,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6278"
+          "Value": "7422"
         },
         {
           "Name": "ETag",
-          "Value": "\"E9B34GIEUyze8YrPSeeboWCA80UCMLIdzXWnHP6NANY=\""
+          "Value": "\"iBwP3+3Ww3HG1hwJc0T+PlSJ9CbMWzCqx8XLiRCmdbQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 05:00:02 GMT"
         },
         {
           "Name": "Vary",
@@ -71114,17 +71114,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GrojpvFZGQ0xoPRa9lJtyXtEHEUdtgird5ffdzwPFcA=\""
+          "Value": "W/\"8ZwutlQgDkojaPsGSjMpR9XsyTpxzRgCgVk+PiZ784g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2umejjjk99"
+          "Value": "9erhkp2lq5"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GrojpvFZGQ0xoPRa9lJtyXtEHEUdtgird5ffdzwPFcA="
+          "Value": "sha256-8ZwutlQgDkojaPsGSjMpR9XsyTpxzRgCgVk+PiZ784g="
         },
         {
           "Name": "label",
@@ -71133,8 +71133,8 @@
       ]
     },
     {
-      "Route": "_framework/Vivero.Servicio.2umejjjk99.pdb.gz",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\uzq2fkmc0a-2umejjjk99.gz",
+      "Route": "_framework/Vivero.Servicio.9erhkp2lq5.pdb.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\uzq2fkmc0a-9erhkp2lq5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71151,7 +71151,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6278"
+          "Value": "7422"
         },
         {
           "Name": "Content-Type",
@@ -71159,11 +71159,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"E9B34GIEUyze8YrPSeeboWCA80UCMLIdzXWnHP6NANY=\""
+          "Value": "\"iBwP3+3Ww3HG1hwJc0T+PlSJ9CbMWzCqx8XLiRCmdbQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 05:00:02 GMT"
         },
         {
           "Name": "Vary",
@@ -71173,11 +71173,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2umejjjk99"
+          "Value": "9erhkp2lq5"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-E9B34GIEUyze8YrPSeeboWCA80UCMLIdzXWnHP6NANY="
+          "Value": "sha256-iBwP3+3Ww3HG1hwJc0T+PlSJ9CbMWzCqx8XLiRCmdbQ="
         },
         {
           "Name": "label",
@@ -71186,6 +71186,167 @@
       ]
     },
     {
+      "Route": "_framework/Vivero.Servicio.giahqna4x7.wasm",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Servicio.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iPpXvMQvEECNqQjPyIG4RwOvTDe9nMMU2fgoHgQwm5E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 03:13:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "giahqna4x7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iPpXvMQvEECNqQjPyIG4RwOvTDe9nMMU2fgoHgQwm5E="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Vivero.Servicio.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Vivero.Servicio.giahqna4x7.wasm",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bwogtj74ox-giahqna4x7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000171791788"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5820"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fS+Ko4hfkpSZaMuQqKwsxe4VjejVaWCo9RGBO/h9lIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 03:13:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"iPpXvMQvEECNqQjPyIG4RwOvTDe9nMMU2fgoHgQwm5E=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "giahqna4x7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iPpXvMQvEECNqQjPyIG4RwOvTDe9nMMU2fgoHgQwm5E="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Vivero.Servicio.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Vivero.Servicio.giahqna4x7.wasm.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bwogtj74ox-giahqna4x7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5820"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fS+Ko4hfkpSZaMuQqKwsxe4VjejVaWCo9RGBO/h9lIc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 03:13:10 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "giahqna4x7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fS+Ko4hfkpSZaMuQqKwsxe4VjejVaWCo9RGBO/h9lIc="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Vivero.Servicio.wasm.gz"
+        }
+      ]
+    },
+    {
       "Route": "_framework/Vivero.Servicio.pdb",
       "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Servicio.pdb",
       "Selectors": [],
@@ -71200,7 +71361,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10676"
+          "Value": "12724"
         },
         {
           "Name": "Content-Type",
@@ -71208,28 +71369,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GrojpvFZGQ0xoPRa9lJtyXtEHEUdtgird5ffdzwPFcA=\""
+          "Value": "\"8ZwutlQgDkojaPsGSjMpR9XsyTpxzRgCgVk+PiZ784g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:17 GMT"
+          "Value": "Tue, 28 Oct 2025 05:00:00 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GrojpvFZGQ0xoPRa9lJtyXtEHEUdtgird5ffdzwPFcA="
+          "Value": "sha256-8ZwutlQgDkojaPsGSjMpR9XsyTpxzRgCgVk+PiZ784g="
         }
       ]
     },
     {
       "Route": "_framework/Vivero.Servicio.pdb",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\uzq2fkmc0a-2umejjjk99.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\uzq2fkmc0a-9erhkp2lq5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000159261029"
+          "Quality": "0.000134716422"
         }
       ],
       "ResponseHeaders": [
@@ -71247,15 +71408,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6278"
+          "Value": "7422"
         },
         {
           "Name": "ETag",
-          "Value": "\"E9B34GIEUyze8YrPSeeboWCA80UCMLIdzXWnHP6NANY=\""
+          "Value": "\"iBwP3+3Ww3HG1hwJc0T+PlSJ9CbMWzCqx8XLiRCmdbQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 05:00:02 GMT"
         },
         {
           "Name": "Vary",
@@ -71267,19 +71428,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GrojpvFZGQ0xoPRa9lJtyXtEHEUdtgird5ffdzwPFcA=\""
+          "Value": "W/\"8ZwutlQgDkojaPsGSjMpR9XsyTpxzRgCgVk+PiZ784g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GrojpvFZGQ0xoPRa9lJtyXtEHEUdtgird5ffdzwPFcA="
+          "Value": "sha256-8ZwutlQgDkojaPsGSjMpR9XsyTpxzRgCgVk+PiZ784g="
         }
       ]
     },
     {
       "Route": "_framework/Vivero.Servicio.pdb.gz",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\uzq2fkmc0a-2umejjjk99.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\uzq2fkmc0a-9erhkp2lq5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71296,7 +71457,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6278"
+          "Value": "7422"
         },
         {
           "Name": "Content-Type",
@@ -71304,11 +71465,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"E9B34GIEUyze8YrPSeeboWCA80UCMLIdzXWnHP6NANY=\""
+          "Value": "\"iBwP3+3Ww3HG1hwJc0T+PlSJ9CbMWzCqx8XLiRCmdbQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 05:00:02 GMT"
         },
         {
           "Name": "Vary",
@@ -71318,168 +71479,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-E9B34GIEUyze8YrPSeeboWCA80UCMLIdzXWnHP6NANY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Vivero.Servicio.qhv36b39oe.wasm",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Servicio.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3861"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LgRvMtEQeuY2kXohfWW9MnxjYWZCpEAtMqMHzJlUaJU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qhv36b39oe"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LgRvMtEQeuY2kXohfWW9MnxjYWZCpEAtMqMHzJlUaJU="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Vivero.Servicio.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Vivero.Servicio.qhv36b39oe.wasm",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bwogtj74ox-qhv36b39oe.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000667556742"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1497"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+isBv5eXk+T+fTIA07zbfG0FD7tDXo+Fo74jpZtO+EI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"LgRvMtEQeuY2kXohfWW9MnxjYWZCpEAtMqMHzJlUaJU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qhv36b39oe"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LgRvMtEQeuY2kXohfWW9MnxjYWZCpEAtMqMHzJlUaJU="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Vivero.Servicio.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Vivero.Servicio.qhv36b39oe.wasm.gz",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bwogtj74ox-qhv36b39oe.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1497"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+isBv5eXk+T+fTIA07zbfG0FD7tDXo+Fo74jpZtO+EI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qhv36b39oe"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+isBv5eXk+T+fTIA07zbfG0FD7tDXo+Fo74jpZtO+EI="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Vivero.Servicio.wasm.gz"
+          "Value": "sha256-iBwP3+3Ww3HG1hwJc0T+PlSJ9CbMWzCqx8XLiRCmdbQ="
         }
       ]
     },
@@ -71498,7 +71498,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3861"
+          "Value": "13077"
         },
         {
           "Name": "Content-Type",
@@ -71506,28 +71506,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LgRvMtEQeuY2kXohfWW9MnxjYWZCpEAtMqMHzJlUaJU=\""
+          "Value": "\"iPpXvMQvEECNqQjPyIG4RwOvTDe9nMMU2fgoHgQwm5E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 03:13:09 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LgRvMtEQeuY2kXohfWW9MnxjYWZCpEAtMqMHzJlUaJU="
+          "Value": "sha256-iPpXvMQvEECNqQjPyIG4RwOvTDe9nMMU2fgoHgQwm5E="
         }
       ]
     },
     {
       "Route": "_framework/Vivero.Servicio.wasm",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bwogtj74ox-qhv36b39oe.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bwogtj74ox-giahqna4x7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000667556742"
+          "Quality": "0.000171791788"
         }
       ],
       "ResponseHeaders": [
@@ -71545,15 +71545,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1497"
+          "Value": "5820"
         },
         {
           "Name": "ETag",
-          "Value": "\"+isBv5eXk+T+fTIA07zbfG0FD7tDXo+Fo74jpZtO+EI=\""
+          "Value": "\"fS+Ko4hfkpSZaMuQqKwsxe4VjejVaWCo9RGBO/h9lIc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 03:13:10 GMT"
         },
         {
           "Name": "Vary",
@@ -71565,19 +71565,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"LgRvMtEQeuY2kXohfWW9MnxjYWZCpEAtMqMHzJlUaJU=\""
+          "Value": "W/\"iPpXvMQvEECNqQjPyIG4RwOvTDe9nMMU2fgoHgQwm5E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LgRvMtEQeuY2kXohfWW9MnxjYWZCpEAtMqMHzJlUaJU="
+          "Value": "sha256-iPpXvMQvEECNqQjPyIG4RwOvTDe9nMMU2fgoHgQwm5E="
         }
       ]
     },
     {
       "Route": "_framework/Vivero.Servicio.wasm.gz",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bwogtj74ox-qhv36b39oe.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\bwogtj74ox-giahqna4x7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71594,7 +71594,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1497"
+          "Value": "5820"
         },
         {
           "Name": "Content-Type",
@@ -71602,11 +71602,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+isBv5eXk+T+fTIA07zbfG0FD7tDXo+Fo74jpZtO+EI=\""
+          "Value": "\"fS+Ko4hfkpSZaMuQqKwsxe4VjejVaWCo9RGBO/h9lIc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 03:13:10 GMT"
         },
         {
           "Name": "Vary",
@@ -71616,12 +71616,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+isBv5eXk+T+fTIA07zbfG0FD7tDXo+Fo74jpZtO+EI="
+          "Value": "sha256-fS+Ko4hfkpSZaMuQqKwsxe4VjejVaWCo9RGBO/h9lIc="
         }
       ]
     },
     {
-      "Route": "_framework/Vivero.Shared.o26y3b6x54.pdb",
+      "Route": "_framework/Vivero.Shared.0wsuxkab4i.pdb",
       "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Shared.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71635,7 +71635,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13020"
+          "Value": "13268"
         },
         {
           "Name": "Content-Type",
@@ -71643,21 +71643,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QOJ/aYD5vQtrAoDyDg4WY4e1vDmisK0Xg1L3PVuWcw8=\""
+          "Value": "\"QCEYBgT4tSfU3PYNCBHwrtyfqcMp7tRpFZzG+6Sf4Us=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:17 GMT"
+          "Value": "Tue, 28 Oct 2025 03:17:40 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o26y3b6x54"
+          "Value": "0wsuxkab4i"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QOJ/aYD5vQtrAoDyDg4WY4e1vDmisK0Xg1L3PVuWcw8="
+          "Value": "sha256-QCEYBgT4tSfU3PYNCBHwrtyfqcMp7tRpFZzG+6Sf4Us="
         },
         {
           "Name": "label",
@@ -71666,13 +71666,13 @@
       ]
     },
     {
-      "Route": "_framework/Vivero.Shared.o26y3b6x54.pdb",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zhpsfsn2no-o26y3b6x54.gz",
+      "Route": "_framework/Vivero.Shared.0wsuxkab4i.pdb",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zhpsfsn2no-0wsuxkab4i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000138274336"
+          "Quality": "0.000136612022"
         }
       ],
       "ResponseHeaders": [
@@ -71690,15 +71690,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7231"
+          "Value": "7319"
         },
         {
           "Name": "ETag",
-          "Value": "\"emTUgHoi0NI4JDOjVsc38pRm8Tj55Zu1ZIumQBo1Mek=\""
+          "Value": "\"EpfBDBqFadFWU+hjLUsFWvbuIDCNq0MrTJ1CbymRW40=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 03:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -71710,17 +71710,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"QOJ/aYD5vQtrAoDyDg4WY4e1vDmisK0Xg1L3PVuWcw8=\""
+          "Value": "W/\"QCEYBgT4tSfU3PYNCBHwrtyfqcMp7tRpFZzG+6Sf4Us=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o26y3b6x54"
+          "Value": "0wsuxkab4i"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QOJ/aYD5vQtrAoDyDg4WY4e1vDmisK0Xg1L3PVuWcw8="
+          "Value": "sha256-QCEYBgT4tSfU3PYNCBHwrtyfqcMp7tRpFZzG+6Sf4Us="
         },
         {
           "Name": "label",
@@ -71729,8 +71729,8 @@
       ]
     },
     {
-      "Route": "_framework/Vivero.Shared.o26y3b6x54.pdb.gz",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zhpsfsn2no-o26y3b6x54.gz",
+      "Route": "_framework/Vivero.Shared.0wsuxkab4i.pdb.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zhpsfsn2no-0wsuxkab4i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71747,7 +71747,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7231"
+          "Value": "7319"
         },
         {
           "Name": "Content-Type",
@@ -71755,11 +71755,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"emTUgHoi0NI4JDOjVsc38pRm8Tj55Zu1ZIumQBo1Mek=\""
+          "Value": "\"EpfBDBqFadFWU+hjLUsFWvbuIDCNq0MrTJ1CbymRW40=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 03:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -71769,11 +71769,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o26y3b6x54"
+          "Value": "0wsuxkab4i"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-emTUgHoi0NI4JDOjVsc38pRm8Tj55Zu1ZIumQBo1Mek="
+          "Value": "sha256-EpfBDBqFadFWU+hjLUsFWvbuIDCNq0MrTJ1CbymRW40="
         },
         {
           "Name": "label",
@@ -71782,6 +71782,167 @@
       ]
     },
     {
+      "Route": "_framework/Vivero.Shared.klj6fh7dj0.wasm",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Shared.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10005"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SFRAd9ziMSjZCPK5oNqmtNNaxzzQ4t8GqCfm/4bk3JQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 03:17:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "klj6fh7dj0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SFRAd9ziMSjZCPK5oNqmtNNaxzzQ4t8GqCfm/4bk3JQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Vivero.Shared.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Vivero.Shared.klj6fh7dj0.wasm",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ylsxn5mri6-klj6fh7dj0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000254647313"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3926"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"siZFb8z4ho6mAglYlE6Cyv/eCUSrpJ8I33I1u28JY/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 03:17:41 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SFRAd9ziMSjZCPK5oNqmtNNaxzzQ4t8GqCfm/4bk3JQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "klj6fh7dj0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SFRAd9ziMSjZCPK5oNqmtNNaxzzQ4t8GqCfm/4bk3JQ="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Vivero.Shared.wasm"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Vivero.Shared.klj6fh7dj0.wasm.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ylsxn5mri6-klj6fh7dj0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"siZFb8z4ho6mAglYlE6Cyv/eCUSrpJ8I33I1u28JY/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Oct 2025 03:17:41 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "klj6fh7dj0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-siZFb8z4ho6mAglYlE6Cyv/eCUSrpJ8I33I1u28JY/4="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Vivero.Shared.wasm.gz"
+        }
+      ]
+    },
+    {
       "Route": "_framework/Vivero.Shared.pdb",
       "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Shared.pdb",
       "Selectors": [],
@@ -71796,7 +71957,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13020"
+          "Value": "13268"
         },
         {
           "Name": "Content-Type",
@@ -71804,28 +71965,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QOJ/aYD5vQtrAoDyDg4WY4e1vDmisK0Xg1L3PVuWcw8=\""
+          "Value": "\"QCEYBgT4tSfU3PYNCBHwrtyfqcMp7tRpFZzG+6Sf4Us=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:17 GMT"
+          "Value": "Tue, 28 Oct 2025 03:17:40 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QOJ/aYD5vQtrAoDyDg4WY4e1vDmisK0Xg1L3PVuWcw8="
+          "Value": "sha256-QCEYBgT4tSfU3PYNCBHwrtyfqcMp7tRpFZzG+6Sf4Us="
         }
       ]
     },
     {
       "Route": "_framework/Vivero.Shared.pdb",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zhpsfsn2no-o26y3b6x54.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zhpsfsn2no-0wsuxkab4i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000138274336"
+          "Quality": "0.000136612022"
         }
       ],
       "ResponseHeaders": [
@@ -71843,15 +72004,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7231"
+          "Value": "7319"
         },
         {
           "Name": "ETag",
-          "Value": "\"emTUgHoi0NI4JDOjVsc38pRm8Tj55Zu1ZIumQBo1Mek=\""
+          "Value": "\"EpfBDBqFadFWU+hjLUsFWvbuIDCNq0MrTJ1CbymRW40=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 03:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -71863,19 +72024,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"QOJ/aYD5vQtrAoDyDg4WY4e1vDmisK0Xg1L3PVuWcw8=\""
+          "Value": "W/\"QCEYBgT4tSfU3PYNCBHwrtyfqcMp7tRpFZzG+6Sf4Us=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QOJ/aYD5vQtrAoDyDg4WY4e1vDmisK0Xg1L3PVuWcw8="
+          "Value": "sha256-QCEYBgT4tSfU3PYNCBHwrtyfqcMp7tRpFZzG+6Sf4Us="
         }
       ]
     },
     {
       "Route": "_framework/Vivero.Shared.pdb.gz",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zhpsfsn2no-o26y3b6x54.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\zhpsfsn2no-0wsuxkab4i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71892,7 +72053,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7231"
+          "Value": "7319"
         },
         {
           "Name": "Content-Type",
@@ -71900,11 +72061,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"emTUgHoi0NI4JDOjVsc38pRm8Tj55Zu1ZIumQBo1Mek=\""
+          "Value": "\"EpfBDBqFadFWU+hjLUsFWvbuIDCNq0MrTJ1CbymRW40=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 03:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -71914,168 +72075,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-emTUgHoi0NI4JDOjVsc38pRm8Tj55Zu1ZIumQBo1Mek="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Vivero.Shared.pul99hvp6m.wasm",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Vivero.Shared.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "9493"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"4ZMHdGAIru8zkpF0om8D06XZtu02jTNWcqCogUt+vl8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pul99hvp6m"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4ZMHdGAIru8zkpF0om8D06XZtu02jTNWcqCogUt+vl8="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Vivero.Shared.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Vivero.Shared.pul99hvp6m.wasm",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ylsxn5mri6-pul99hvp6m.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000263782643"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3790"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rdsTzXoqrRrWEMjaYWLCBvfuwgbkBKxIRujS2pxX/no=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"4ZMHdGAIru8zkpF0om8D06XZtu02jTNWcqCogUt+vl8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pul99hvp6m"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-4ZMHdGAIru8zkpF0om8D06XZtu02jTNWcqCogUt+vl8="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Vivero.Shared.wasm"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Vivero.Shared.pul99hvp6m.wasm.gz",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ylsxn5mri6-pul99hvp6m.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3790"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rdsTzXoqrRrWEMjaYWLCBvfuwgbkBKxIRujS2pxX/no=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pul99hvp6m"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rdsTzXoqrRrWEMjaYWLCBvfuwgbkBKxIRujS2pxX/no="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Vivero.Shared.wasm.gz"
+          "Value": "sha256-EpfBDBqFadFWU+hjLUsFWvbuIDCNq0MrTJ1CbymRW40="
         }
       ]
     },
@@ -72094,7 +72094,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9493"
+          "Value": "10005"
         },
         {
           "Name": "Content-Type",
@@ -72102,28 +72102,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4ZMHdGAIru8zkpF0om8D06XZtu02jTNWcqCogUt+vl8=\""
+          "Value": "\"SFRAd9ziMSjZCPK5oNqmtNNaxzzQ4t8GqCfm/4bk3JQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 03:17:40 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4ZMHdGAIru8zkpF0om8D06XZtu02jTNWcqCogUt+vl8="
+          "Value": "sha256-SFRAd9ziMSjZCPK5oNqmtNNaxzzQ4t8GqCfm/4bk3JQ="
         }
       ]
     },
     {
       "Route": "_framework/Vivero.Shared.wasm",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ylsxn5mri6-pul99hvp6m.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ylsxn5mri6-klj6fh7dj0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000263782643"
+          "Quality": "0.000254647313"
         }
       ],
       "ResponseHeaders": [
@@ -72141,15 +72141,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3790"
+          "Value": "3926"
         },
         {
           "Name": "ETag",
-          "Value": "\"rdsTzXoqrRrWEMjaYWLCBvfuwgbkBKxIRujS2pxX/no=\""
+          "Value": "\"siZFb8z4ho6mAglYlE6Cyv/eCUSrpJ8I33I1u28JY/4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 03:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -72161,19 +72161,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"4ZMHdGAIru8zkpF0om8D06XZtu02jTNWcqCogUt+vl8=\""
+          "Value": "W/\"SFRAd9ziMSjZCPK5oNqmtNNaxzzQ4t8GqCfm/4bk3JQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4ZMHdGAIru8zkpF0om8D06XZtu02jTNWcqCogUt+vl8="
+          "Value": "sha256-SFRAd9ziMSjZCPK5oNqmtNNaxzzQ4t8GqCfm/4bk3JQ="
         }
       ]
     },
     {
       "Route": "_framework/Vivero.Shared.wasm.gz",
-      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ylsxn5mri6-pul99hvp6m.gz",
+      "AssetFile": "C:\\Users\\Matt\\Source\\Repos\\Vivero_web\\Vivero.Server\\Vivero.Server.Client\\obj\\Debug\\net9.0\\compressed\\ylsxn5mri6-klj6fh7dj0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72190,7 +72190,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3790"
+          "Value": "3926"
         },
         {
           "Name": "Content-Type",
@@ -72198,11 +72198,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rdsTzXoqrRrWEMjaYWLCBvfuwgbkBKxIRujS2pxX/no=\""
+          "Value": "\"siZFb8z4ho6mAglYlE6Cyv/eCUSrpJ8I33I1u28JY/4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Oct 2025 05:04:18 GMT"
+          "Value": "Tue, 28 Oct 2025 03:17:41 GMT"
         },
         {
           "Name": "Vary",
@@ -72212,7 +72212,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rdsTzXoqrRrWEMjaYWLCBvfuwgbkBKxIRujS2pxX/no="
+          "Value": "sha256-siZFb8z4ho6mAglYlE6Cyv/eCUSrpJ8I33I1u28JY/4="
         }
       ]
     },

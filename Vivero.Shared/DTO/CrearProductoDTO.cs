@@ -9,6 +9,7 @@ namespace Vivero.Shared.DTO
 {
     public class CrearProductoDTO
     {
+        public int Id { get; set; } = 1;
         public string? Imagen { get; set; }
 
         [Required(ErrorMessage = "Es necesario ingresar el nombre del producto")]

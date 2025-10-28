@@ -10,11 +10,11 @@ namespace Vivero.BD.Datos.Entity
 {
     public class GestionProducto : EntityBase
     {
-        public int AdministradorId { get; set; }
-        public required Administrador Administrador { get; set; }
+        public required int AdministradorId { get; set; }
+        public Administrador? Administrador { get; set; }
 
-        public int ProductoId { get; set; }
-        public required Producto Producto { get; set; }
+        public required int ProductoId { get; set; }
+        public Producto? Producto { get; set; }
 
         public Accion Accion { get; set; }
         public DateTime Fecha { get; set; }

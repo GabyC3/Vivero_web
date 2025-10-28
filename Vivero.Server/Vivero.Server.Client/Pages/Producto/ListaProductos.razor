@@ -1,0 +1,74 @@
+﻿@page "/productos"
+<h3>Lista de Productos</h3>
+
+@inject IHttpServicio http
+
+<br/>
+<a class="btn btn-primary" type="button" href="/productos/crear"> Crear Producto </a>
+
+<table>
+	<tr>
+		<th>Productos</th>
+	</tr>
+@if (listaProd == null) 
+{
+	<p> Buscando… </p>
+} else if (listaProd.Count == 0){
+	<p> No existen países cargados en la lista </p>
+} else {
+	@foreach (var producto in listaProd) //agrega filas por cada producto  y columnas por propiedad
+	{ 
+		<tr>
+			<td>@producto.Imagen</td>
+			<td>@producto.Nombre</td>
+			<td>@producto.Maceta</td>
+			<td>@producto.Descripcion</td>
+			<td>@producto.Precio</td>
+			<td>@producto.Stock</td>
+
+			<td>
+				<a class="btn btn-primary" href="/productos/editar"> Editar </a>
+			</td>
+			<td>
+				<button class="btn btn-danger" @onclick="() => Borrar(producto)"> Borrar </button>
+			</td>
+			
+		</tr>
+	}
+}
+</table>
+
+@code {
+	List<ListaProdDTO>? listaProd;
+	string Mensaje = string.Empty;
+	
+	protected override async Task OnInitializedAsync()
+	{
+		await base.OnInitializedAsync();
+		await listaProductos();  //muestra la lista de la entidad en la tabla
+	}
+
+	private async Task listaProductos() {
+		//var productos = await http.GetFromJsonAsync<List<ListaProdDTO>>("api/productos");
+		var resp = await http.Get<List<ListaProdDTO>>("api/producto");
+		if (!resp.Error)
+		{
+			listaProd = resp.Respuesta;
+		}
+		else
+		{
+			Mensaje = resp.ObtenerError();
+		}
+	}
+
+	private async Task Borrar(ListaProdDTO producto)
+	{
+		var resp = await http.Delete($"api/producto/{producto.Id}");
+		if (resp.Error)
+		{
+			Mensaje = resp.ObtenerError();
+		}
+		await listaProductos();
+
+	}
+}

@@ -10,7 +10,10 @@ namespace Vivero.Shared.DTO
 {
     public class CrearGestionDTO
     {
-
+       
+        public int Id { get; set; }
+        public int AdministradorId { get; set; } = 1;
+        public int ProductoId { get; set; }
         public Accion Accion { get; set; } = Accion.Crear;
         public DateTime Fecha { get; set; } = DateTime.Now;
 
